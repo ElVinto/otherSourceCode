@@ -24,3 +24,8 @@ Lien vers le code : <a href="https://github.com/ElVinto/otherSourceCode/tree/mas
 Code source d'un algorithme distribué de décomposition arborescente qui clustérise le raisonnement distribué dans un système de pairs.
 
 Lien vers le code : <a href="https://github.com/ElVinto/otherSourceCode/tree/master/inferencePeers/src/distributedAlgorithm/jtdt">TE</a>
+
+# Route Clustering 
+Code source des algorithmes de clustering développés dans le cadre du projet de planification des interventions avec United Technology Research Center seront bientôt disponibles.
+
+Lien vers le code : <a href="https://github.com/ElVinto/otherSourceCode/tree/master/RoutesClustering/java">RouteClustering</a>
