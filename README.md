@@ -18,3 +18,9 @@ Lien vers le code : <a href="https://github.com/ElVinto/otherSourceCode/tree/mas
 Code source d'une amélioration de M2DT permettant de diagnostiquer des systèmes pair-à-pair respectant une politique de confidentialité. La politique de confidentialité implémentée impose que les données locales à un pair restent privées (JAVA)  
 
 Lien vers le code : <a href="https://github.com/ElVinto/otherSourceCode/tree/master/inferencePeers/src/distributedAlgorithm/m3dj">M3DJ</a>
+
+
+# TE (Token Elimination) 
+Code source d'un algorithme distribué de décomposition arborescente qui clustérise le raisonnement distribué dans un système de pairs.
+
+Lien vers le code : <a href="https://github.com/ElVinto/otherSourceCode/tree/master/inferencePeers/src/distributedAlgorithm/jtdt">TE</a>
